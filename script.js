@@ -18,38 +18,24 @@ del team.
 */
 
 //Array che rapresenta i membri team
-const teamMembers = {
-  "teamNames": ["Wayne Barnett", "Angela Caroll",
+let teamMembers = ["Wayne Barnett", "Angela Caroll",
     "Walter Gordon", "Angela Lopez", "Scott Estrada",
     "Barbara Ramos"];
-  
-  "teamNames"[0] = {
-    "ruolo": "Founder and CEO";
-  }
-  
-  "teamNames"[1]{
-    "ruolo": "Chief Editor"
-    
-  }
-  
-  "teamNames"[2]{
-  "ruolo": "Office Manager"
-  }
-  
-  "teamNames"[3]{
-    "ruolo": "Social Media Manager"
-    
-  }
-  
-  "teamNames"[4]{
-    "ruolo": "Developer"
-    
-  }
-  
-  "teamNames"[5]{
-    "ruolo": "Graphic Designer"
-    
-  }
-}
-  
+  teamMembers[0];
+"ruolo": "Founder and CEO";
+
+  teamMembers[1];
+"ruolo": "Chief Editor";
+
+  teamMembers[2];
+"ruolo": "Office Manager";
+
+  teamMembers[3]; 
+"ruolo": "Social Media Manager"; 
+
+  teamMembers[4]; 
+"ruolo": "Developer";
+
+  teamMembers[5];
+"ruolo": "Graphic Designer";
 //team cards
