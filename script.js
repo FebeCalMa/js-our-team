@@ -18,6 +18,32 @@ del team.
 */
 
 //Array che rapresenta i membri team
-arrayTeam = ["Barnett", "Caroll", "Gordon", "Lopez", "Estrada", "Ramos"];
+const teamMembers = {
+  "teamNames": ["Barnett", "Caroll", "Gordon", "Lopez", "Estrada", "Ramos"];
+  "teamNames"[0] = {
+    "ruolo": "Founder and CEO";
+  }
+  "teamNames"[1]{
+    "ruolo": ""
+    
+  }
+  "teamNames"[2]{
+    "ruolo": ""
+    
+}
+"teamNames"[3]{
+  "ruolo": ""
+  
+}
+"teamNames"[4]{
+  "ruolo": ""
+  
+}
+"teamNames"[5]{
+  "ruolo": ""
+  
+}
 
+}
+  
 //team cards
