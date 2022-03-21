@@ -17,5 +17,7 @@ stampare dinamicamente una card per ogni membro
 del team.
 */
 
-//Array che rapresentano i membri team
+//Array che rapresenta i membri team
 arrayTeam = ["Barnett", "Caroll", "Gordon", "Lopez", "Estrada", "Ramos"];
+
+//team cards
